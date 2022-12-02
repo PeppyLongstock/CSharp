@@ -1,0 +1,15 @@
+/Users/asyateresenko/Desktop/Git/seminar/Seminar7./HomeWork7/Task47/bin/Debug/net7.0/Task47
+/Users/asyateresenko/Desktop/Git/seminar/Seminar7./HomeWork7/Task47/bin/Debug/net7.0/Task47.deps.json
+/Users/asyateresenko/Desktop/Git/seminar/Seminar7./HomeWork7/Task47/bin/Debug/net7.0/Task47.runtimeconfig.json
+/Users/asyateresenko/Desktop/Git/seminar/Seminar7./HomeWork7/Task47/bin/Debug/net7.0/Task47.dll
+/Users/asyateresenko/Desktop/Git/seminar/Seminar7./HomeWork7/Task47/bin/Debug/net7.0/Task47.pdb
+/Users/asyateresenko/Desktop/Git/seminar/Seminar7./HomeWork7/Task47/obj/Debug/net7.0/Task47.csproj.AssemblyReference.cache
+/Users/asyateresenko/Desktop/Git/seminar/Seminar7./HomeWork7/Task47/obj/Debug/net7.0/Task47.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asyateresenko/Desktop/Git/seminar/Seminar7./HomeWork7/Task47/obj/Debug/net7.0/Task47.AssemblyInfoInputs.cache
+/Users/asyateresenko/Desktop/Git/seminar/Seminar7./HomeWork7/Task47/obj/Debug/net7.0/Task47.AssemblyInfo.cs
+/Users/asyateresenko/Desktop/Git/seminar/Seminar7./HomeWork7/Task47/obj/Debug/net7.0/Task47.csproj.CoreCompileInputs.cache
+/Users/asyateresenko/Desktop/Git/seminar/Seminar7./HomeWork7/Task47/obj/Debug/net7.0/Task47.dll
+/Users/asyateresenko/Desktop/Git/seminar/Seminar7./HomeWork7/Task47/obj/Debug/net7.0/refint/Task47.dll
+/Users/asyateresenko/Desktop/Git/seminar/Seminar7./HomeWork7/Task47/obj/Debug/net7.0/Task47.pdb
+/Users/asyateresenko/Desktop/Git/seminar/Seminar7./HomeWork7/Task47/obj/Debug/net7.0/Task47.genruntimeconfig.cache
+/Users/asyateresenko/Desktop/Git/seminar/Seminar7./HomeWork7/Task47/obj/Debug/net7.0/ref/Task47.dll
